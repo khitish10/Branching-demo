@@ -1,1 +1,1 @@
-Information on B in master
+Information on B in master but now in branch
