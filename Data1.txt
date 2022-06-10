@@ -1,2 +1,4 @@
 Information on A in master but now in branch
 Merge conflict test.
+Testing merge conflisct
+
