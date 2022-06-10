@@ -1,1 +1,2 @@
 Information on B in master but now in branch
+Testing again merge from remote
